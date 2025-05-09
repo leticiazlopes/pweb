@@ -121,6 +121,8 @@ class Exam {
     }
 
 }
+// Testando a classe
+// Professor, tive dúvida na especificação dos métodos lt, gt, min e max. Acabei fazendo pelo que achei que era o correto.
 
 const peso = new Weight({1:4, 2:6});
 const gabarito = new Answer('professor',{1:'a', 2:'b'})
